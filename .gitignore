@@ -2,3 +2,5 @@ TODO
 .env
 node_modules/
 config.json
+sample.json
+test.json
